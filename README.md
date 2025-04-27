@@ -72,7 +72,7 @@ AniMind is an advanced AI-powered application that transforms text prompts into 
 
 ### Endpoint
 ```
-https://a03fe99a8a99d63578.gradio.live/
+https://colab.research.google.com/drive/16WmebY0aIJqI2H2MFLFAUxx8pPXedUBZ?usp=sharing
 ```
 
 ### API Response Format
