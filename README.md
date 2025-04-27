@@ -4,12 +4,23 @@ AniMind is an advanced AI-powered application that transforms text prompts into 
 
 ## 🌟 Features
 
-- Generate complete stories from single-sentence prompts
+- Generate complete stories from single-sentence prompts or a large article
 - Create AI-generated video animations for each story segment
 - Add sentiment-aware voice narration
 - Automatic video-audio synchronization
 - Interactive web interface
 - API access available
+
+## Step-By-Step Usage Guide
+
+1. Go to this link: https://colab.research.google.com/drive/16WmebY0aIJqI2H2MFLFAUxx8pPXedUBZ?usp=sharing
+2. Navigate to **Runtime -> Change runtime type** in the menu
+3. Select **T4 GPU** then click **Save**
+5. Run the cell and wait until the gradio interface appears
+6. Enter any **long story** or **short promt** and the code will do the rest
+7. Once complete a video file called **"final_video_with_audio.mp4"** will be generated
+8. Download it
+9. Enjoy ;)
 
 ## 🔧 Technical Architecture
 
@@ -71,9 +82,6 @@ AniMind is an advanced AI-powered application that transforms text prompts into 
 ## 🚀 API Usage
 
 ### Endpoint
-```
-https://colab.research.google.com/drive/16WmebY0aIJqI2H2MFLFAUxx8pPXedUBZ?usp=sharing
-```
 
 ### API Response Format
 ```json
