@@ -1,13 +1,3 @@
-karimrd-hub: generate a professional and detailed read me file that describes the program
-
-i also want to explain the technical details
-
-note that to use the model as an API :
-
-https://a03fe99a8a99d63578.gradio.live/
-
-Workspace: Collecting workspace informationHere's a detailed README.md with technical information:
-
 # 🎬 AniMind AI Story Video Generator
 
 AniMind is an advanced AI-powered application that transforms text prompts into complete stories with matching video animations and narration. It combines multiple AI models to create a seamless storytelling experience.
